@@ -97,7 +97,9 @@ Check out the live demo of the application deployed on Vercel: [Itinerary Planne
 
 ## Credits
 
-Developed by [Your Name]
+Developed by [Apoorv Srivastava]
 
 ---
+## Vercel Link
 
+https://iti-pplan-k8shs1gsz-apoorv-srivastavas-projects.vercel.app/
